@@ -47,7 +47,7 @@ int main(void)
 ```
 
 
-##OUTPUT
+## OUTPUT
 
 
 ![image](https://github.com/user-attachments/assets/d4a54287-81dd-4841-b053-7dfd409d796b)
@@ -79,7 +79,7 @@ exit(0);}
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 ![image](https://github.com/user-attachments/assets/509bf362-cc6d-481d-beeb-d5c6a322d3a5)
@@ -125,7 +125,7 @@ int main()
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 
